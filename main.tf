@@ -44,8 +44,8 @@ resource "aws_eip" "ngw-eip" {
 #    local.common_tags,
 #    { Name = "${var.env}-ngw" }
 #  )
-
-}
+#
+#}
 
 
 
